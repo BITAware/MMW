@@ -1,0 +1,9 @@
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\bin\x86\Debug\Tutorial.exe
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\bin\x86\Debug\Tutorial.pdb
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\obj\x86\Debug\Tutorial.csprojResolveAssemblyReference.cache
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\obj\x86\Debug\Microsoft.Xna.Framework.RuntimeProfile.txt
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\obj\x86\Debug\Tutorial.exe
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\obj\x86\Debug\Tutorial.pdb
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\bin\x86\Debug\Content\Red_button.xnb
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\bin\x86\Debug\Content\final_fantasy_final_boss_music_final_fantasy_x_jecht_youtube.xnb
+c:\users\nick\documents\visual studio 2010\Projects\Tutorial\Tutorial\Tutorial\bin\x86\Debug\Content\final_fantasy_final_boss_music_final_fantasy_x_jecht_youtube.wma
